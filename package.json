@@ -1,0 +1,59 @@
+{
+  "name": "FirefoxGearStick",
+  "title": "FirefoxGearStick",
+  "id": "jid1-6Cc0AQNXwd2P5Q",
+  "description": "Geek and «beauf», a gearstick Firefox add-on",
+  "author": "Antoine Pultier",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [
+    {
+        "type": "string",
+        "name": "url1",
+        "value": "http://www.lequipe.fr/",
+        "title": "First gear"
+    },
+    {
+        "type": "string",
+        "name": "url2",
+        "value": "https://facebook.com",
+        "title": "Second"
+    },
+    {
+        "type": "string",
+        "name": "url3",
+        "value": "https://twitter.com",
+        "title": "Third"
+    },
+    {
+        "type": "string",
+        "name": "url4",
+        "value": "http://www.twitch.tv/",
+        "title": "Fourth"
+    },
+    {
+        "type": "string",
+        "name": "url5",
+        "value": "http://www.youtube.com",
+        "title": "Fifth"
+    },
+    {
+        "type": "string",
+        "name": "url6",
+        "value": "http://www.nextinpact.com",
+        "title": "Sixth"
+    },
+    {
+        "type": "string",
+        "name": "url7",
+        "value": "http://www.lemonde.fr",
+        "title": "Seventh"
+    },
+    {
+        "type": "string",
+        "name": "url8",
+        "value": "http://perdu.com",
+        "title": "Reverse"
+    }
+  ]
+}
